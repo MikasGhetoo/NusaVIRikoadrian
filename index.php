@@ -30,7 +30,7 @@
 				<h2>Nusa V <span>Indonesia</span></h2> <!-- set your community name here --> 
 				<div class="right">
 					<a href="#"> <button class="custom-button custom-button-primary">Forum</button></a>  <!-- change the discord link to your discord's server link -->
-					<a href="https://www.discord.gg/XTvjfhQzDz"><button class="custom-button custom-button-primary">Discord</button></a>  <!-- change the discord link to your discord's server link -->
+					<a href="https://www.discord.gg/nusav"><button class="custom-button custom-button-primary">Discord</button></a>  <!-- change the discord link to your discord's server link -->
 					<a href="/team.php"><button class="custom-button custom-button-primary">Staff Team</button></a> <!-- The Staff Team Page! -->
 					<a href="/gallery.php"><button class="custom-button custom-button-primary">Our Photos</button></a> <!-- to be added to next update -->
 					<!-- <a href="/partners.php"><button class="custom-button custom-button-primary">Our Partners</button></a> -->
