@@ -35,7 +35,7 @@
 				<div class="right">
                     <a href="/index.php"><button class="custom-button custom-button-primary">Home</button></a> <!-- to be added to next update -->
 					<a href="#"> <button class="custom-button custom-button-primary">Forum</button></a>  <!-- change the discord link to your discord's server link -->
-					<a href="https://www.discord.gg/XTvjfhQzDz"><button class="custom-button custom-button-primary">Discord</button></a>  <!-- change the discord link to your discord's server link -->
+					<a href="https://www.discord.gg/nusav"><button class="custom-button custom-button-primary">Discord</button></a>  <!-- change the discord link to your discord's server link -->
 					<a href="/gallery.php"><button class="custom-button custom-button-primary">Our Photos</button></a> <!-- The Staff Team Page! -->
                     <a href="team.php"><button class="custom-button custom-button-primary">Our Team</button></a> <!-- The Staff Team Page! -->
 				</div>
